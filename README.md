@@ -5,3 +5,5 @@
 baranakyolif/baranakyolif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![logo2](https://github.com/user-attachments/assets/b82fb745-b417-43e3-83c0-5bf7f37977f7)
