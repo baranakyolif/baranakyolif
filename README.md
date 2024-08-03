@@ -6,4 +6,5 @@ baranakyolif/baranakyolif is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![logo2](https://github.com/user-attachments/assets/b82fb745-b417-43e3-83c0-5bf7f37977f7)
+ ![Adsız tasarım](https://github.com/user-attachments/assets/6aabfe6f-823b-44f3-b6cc-8572e922c2e6)
+
